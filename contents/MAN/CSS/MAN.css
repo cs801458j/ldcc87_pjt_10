@@ -1,0 +1,105 @@
+p {font-size: 16px;}
+.margin {margin-bottom: 45px;}
+
+
+.container-fluid {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+
+html {
+    font-family: 'Nanum Gothic', sans-serif;
+}
+body{
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+.nav-wrapper{
+    background-color: white;
+
+}
+
+nav .brand-logo.left{
+    left: 1.4 rem;
+    /*margin-left: 1em;*/
+    font-weight: bold;
+    color: rgb(109, 47, 194);
+}
+
+
+
+.sidenav{
+
+}
+/*  메뉴 아이콘*/
+#menu-icon{
+    height: 2em;
+}
+
+#lara-icon{
+    margin: 1em;
+}
+#charged-price-title{
+    margin: 0;
+}
+#charged-price{
+    font-size: 2em;
+}
+/* custom bg-1 첫번째 container*/
+.bg-1 {
+    background-color: white;
+    color: #ffffff;
+    padding-top: 1em;
+}
+tr {
+    border-bottom: none;
+}
+tr, td{
+    margin: 0;
+    padding: 0;
+}
+p{
+    margin: 0
+;
+}
+
+table.container.centered{
+    max-width: 60%;
+}
+
+.bg-2 {
+    background-color: white; /* Dark Blue */
+    color: #7a7a7a;
+    padding-top: 0;
+    padding-bottom: 1em;
+}
+
+.bg-3 {
+    background-color: #ffffff; /* White */
+    color: #555555;
+    padding-top: 1em;
+
+}
+
+#touch-logo{
+    font-size: 1.5em;
+    left: 2.7em;
+    color: rgb(109, 47, 194);
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+.bg-4 {
+    background-color: #2f2f2f; /* Black Gray */
+    color: #fff;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-top: 2.7em;
+}
+.card .card-title{
+    font-size: 1.5em;
+}
+div.card{
+    background-color: #8952C2;
+}
